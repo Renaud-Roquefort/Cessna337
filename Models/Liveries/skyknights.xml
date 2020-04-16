@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+	<model>
+		<livery>
+			<name type="string">Sky Knights trainer aircraft</name>
+			<texture>Textures/livery_skyknights.png</texture>
+		</livery>
+		<videocam type="bool">false</videocam>
+		<device type="bool">true</device>
+		<frontcone type="bool">true</frontcone>
+		<rearcone type="bool">true</rearcone>
+		<wingfins type="bool">false</wingfins>
+	</model>
+</sim>
+</PropertyList>
